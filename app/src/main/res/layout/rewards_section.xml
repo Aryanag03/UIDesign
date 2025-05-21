@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cashback balance\n₹0"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:paddingVertical="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="coins\n26,46,583"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:paddingVertical="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="win upto ₹1000\nrefer and earn"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:paddingVertical="8dp" />
+</LinearLayout>
